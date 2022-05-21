@@ -1,0 +1,8 @@
+welcome to unix programming...
+we are from aditya college...
+trainer name is prasanna
+aditya college at kakinada
+aditya college at surampalem
+welcome to segue training
+welcome to git training
+welcome to agile training

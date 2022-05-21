@@ -1,0 +1,7 @@
+welcome to unix programming
+this is new line of code
+welcome to all
+filters compled
+pipes finished
+git about to start 
+
